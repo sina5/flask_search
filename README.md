@@ -1,6 +1,6 @@
 # Flask Data Frame Search
 
-This is sample Flask application to show rows from a data frame
+This is a sample Flask application to show rows from a data frame
 
 ## Summary
 
