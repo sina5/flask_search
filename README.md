@@ -24,7 +24,7 @@ To install:
 
 ## Running the tests
 
-python3 webpage_app.py
+    python3 webpage_app.py
 
 ## Authors
 
