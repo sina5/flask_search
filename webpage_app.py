@@ -1,6 +1,6 @@
 # Programmer: Sina Fathi-Kazerooni
 # Email: sina@sinafathi.com
-# WWW: sina.bz 
+# WWW: sinafathi.com 
 
 from searchapp import searchapp
 
