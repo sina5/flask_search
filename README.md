@@ -15,12 +15,12 @@ These instructions will get you a copy of the project up and running on
 your local machine for development and testing purposes. 
 ### Prerequisites
 
-To get started you need to install Python 3.7.7 and create an virtual environment.
+To get started you need to install Python 3.7+ and create an virtual environment.
 The pip-requirments.txt file contains all the PyPi packages to install. 
 
 To install:
 
-    python3 -m pip install -r pip-requirments.txt
+    python3 -m pip install -r requirments.txt
 
 ## Running the tests
 
